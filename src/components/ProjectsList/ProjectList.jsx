@@ -11,10 +11,9 @@ function ProjectList() {
           Check out my <b>Projects</b>
         </h1>
         <p className="project-list-description">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis iusto
-          eum optio beatae possimus quaerat pariatur placeat dolor quam?
-          Consequatur culpa, autem repudiandae voluptatem eum rem voluptate?
-          Adipisci, ut dicta.
+          Over the last six months, I've built a project every week. You're more
+          than welcome to take a look! Click on the image to go to the deployed
+          application and the code symbol to checkout the repo.
         </p>
       </div>
       <div className="project-list-listing">

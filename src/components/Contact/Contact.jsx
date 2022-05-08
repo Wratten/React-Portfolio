@@ -66,10 +66,9 @@ function Contact() {
         <div className="contact-right">
           <div className="contact-description">
             <p>
-              <b>Lorem ipsum</b> dolor sit amet consectetur adipisicing elit.
-              Impedit, doloremque excepturi. Consequuntur, ratione hic iusto
-              dolorum nesciunt rem beatae laborum? Voluptas corporis neque
-              dolores, eum illo saepe inventore amet odio?
+              <b>Flick me an email</b> if you've got any questions, or would be
+              interested in working with me. I'll try and get back to you as
+              soon as I can!
             </p>
           </div>
           <form ref={formRef} onSubmit={handleSubmit}>
