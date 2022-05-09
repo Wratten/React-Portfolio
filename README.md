@@ -15,6 +15,7 @@
 - Coolors
 - Clippy
 - gh-pages
+- emailJS
 ```
 
 | Table of Contents                 |
