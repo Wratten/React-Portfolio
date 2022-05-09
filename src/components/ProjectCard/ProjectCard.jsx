@@ -7,7 +7,7 @@ function ProjectCards({ img, link, title }) {
     <div className="project">
       <div className="project-browser">
         {/* can't seem to pass a title to be used through data file? */}
-        <div className="project-name">Project title </div>
+        <div className="project-name"> {title} </div>
         <UilCodeBranch className="icon" color="#f4900c"></UilCodeBranch>
       </div>
       <a href={link} target="_blank" rel="noreferrer" className="container">

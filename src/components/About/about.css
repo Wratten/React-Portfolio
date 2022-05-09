@@ -45,6 +45,7 @@
 .about-description {
   padding-top: 15px;
   font-weight: 300;
+  margin-right: 40px;
 }
 
 @media screen and (max-width: 480px) {
