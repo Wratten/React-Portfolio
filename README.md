@@ -1,4 +1,4 @@
-# Just Another Text Editor (J.A.T.E)
+# React Portfolio
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
