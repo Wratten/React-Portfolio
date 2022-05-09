@@ -1,16 +1,32 @@
 import React from "react";
-import "./projectcards.css";
+import "./projectcard.css";
 import { UilCodeBranch } from "@iconscout/react-unicons";
 
-function ProjectCards({ img, link, title }) {
+function ProjectCards({ img, deployedLink, repoLink, title }) {
   return (
     <div className="project">
       <div className="project-browser">
         {/* can't seem to pass a title to be used through data file? */}
         <div className="project-name"> {title} </div>
-        <UilCodeBranch className="icon" color="#f4900c"></UilCodeBranch>
+        <a
+          href={repoLink}
+          target="_blank"
+          rel="noreferrer"
+          className="project-icon-container"
+        >
+          <UilCodeBranch
+            className="icon"
+            size="23"
+            color="#f4900c"
+          ></UilCodeBranch>
+        </a>
       </div>
-      <a href={link} target="_blank" rel="noreferrer" className="container">
+      <a
+        href={deployedLink}
+        target="_blank"
+        rel="noreferrer"
+        className="container"
+      >
         <img src={img} alt="" className="project-img" />
       </a>
     </div>

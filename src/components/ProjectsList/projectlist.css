@@ -12,11 +12,13 @@
 
 .project-list-title {
   font-style: 50px;
+  font-size: 60px;
   font-weight: 600;
 }
 
 .project-list-description {
   margin: 20px 0px;
+  font-size: 25px;
 }
 
 .project-list-listing {

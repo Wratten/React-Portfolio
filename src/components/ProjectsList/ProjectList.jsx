@@ -21,7 +21,8 @@ function ProjectList() {
           <ProjectCard
             key={item.id}
             img={item.img}
-            link={item.link}
+            deployedLink={item.deployedLink}
+            repoLink={item.repoLink}
             title={item.title}
           />
         ))}

@@ -7,7 +7,9 @@ function Intro() {
     <div className="intro">
       <div className="intro-left">
         <div className="intro-left-wrapper">
-          <h2 className="intro-intro">Hey, Nice to meet you!</h2>
+          <h2 className="intro-intro">
+            <b>Hey</b>, Nice to meet you!
+          </h2>
           <h2 className="intro-name"> I'm Daniel Wratten</h2>
           <div className="intro-title">
             <div className="intro-title-wrapper">

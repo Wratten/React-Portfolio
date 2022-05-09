@@ -50,6 +50,7 @@
 
 .contact-description {
   font-weight: 200;
+  font-size: 25px;
 }
 
 form {
@@ -62,7 +63,7 @@ input {
   border: none;
   border-bottom: 1px solid white;
   margin: 10px 0px;
-  font-size: 14px;
+  font-size: 18px;
   padding-left: 10px;
   background-color: #191919;
 }
@@ -70,7 +71,7 @@ input {
 textarea {
   width: 100%;
   margin: 10px 0px;
-  font-size: 14px;
+  font-size: 18px;
   padding-left: 10px;
   background-color: #191919;
   border: 1px solid white;
@@ -87,6 +88,7 @@ button {
   background-color: #f4900c;
   color: white;
   font-weight: 750;
+  font-size: 18px;
   border-radius: 10px;
   cursor: pointer;
 }

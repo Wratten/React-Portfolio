@@ -4,13 +4,17 @@
 
 ## Description
 
-    React portfolio
+    A finalized version of my Portfolio in React, no crazy bells and whistles, just a simple one page scrolling application to showcase my work, and a contact form to get me in touch with the people I need to be.
 
 ## Built With
 
 ```
 - JavaScript
+- CSS
 - React
+- Coolors
+- Clippy
+- gh-pages
 ```
 
 | Table of Contents                 |
@@ -19,7 +23,7 @@
 | [II Usage.](#usage)               |
 | [III License.](#licenses)         |
 | [IV Contributing.](#contributing) |
-| [V Questions.](#questions)       |
+| [V Questions.](#questions)        |
 
 ## Installation
 
@@ -37,16 +41,13 @@ To run this app,
 
     npm run start
 
-## Demo Video
-
-![Demo video](/assets/demo.gif)
+![Demo photo](/assets/react-portfolio.png)
 
 ## Contributions
 
     Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
     If you have a suggestion that would make this better, please fork the repo and create a pull request. Thanks again!
-
 
 ## License
 
