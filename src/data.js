@@ -15,10 +15,10 @@ export const projects = [
   },
   {
     id: 3,
-    img: "https://i.imgur.com/TzyMwBH.png",
-    deployedLink: "https://wratten.github.io/Weather-Dashboard",
-    repoLink: "https://github.com/Wratten/Weather-Dashboard",
-    title: "Weather Dashboard",
+    img: "https://raw.githubusercontent.com/Wratten/The-Path/main/assets/homepage.png",
+    deployedLink: "https://github.com/Wratten/The-Path",
+    repoLink: "https://github.com/Wratten/The-Path",
+    title: "The Path",
   },
   {
     id: 4,
@@ -36,9 +36,9 @@ export const projects = [
   },
   {
     id: 6,
-    img: "https://i.imgur.com/MAFW8MN.png",
-    deployedLink: "https://wratten.github.io/Code-Quiz/",
-    repoLink: "https://github.com/Wratten/Code-Quiz",
-    title: "Javascript Quiz",
+    img: "https://i.imgur.com/TzyMwBH.png",
+    deployedLink: "https://wratten.github.io/Weather-Dashboard",
+    repoLink: "https://github.com/Wratten/Weather-Dashboard",
+    title: "Weather Dashboard",
   },
 ];

@@ -4,7 +4,7 @@ import { UilGithubAlt } from "@iconscout/react-unicons";
 import { UilLinkedinAlt } from "@iconscout/react-unicons";
 import { UilFileAlt } from "@iconscout/react-unicons";
 import { useRef } from "react";
-import Resume from "../../files/Daniel-Wratten-Resume.docx";
+import Resume from "../../files/Daniel-Wratten-Resume.pdf";
 import emailjs from "@emailjs/browser";
 
 function Contact() {
