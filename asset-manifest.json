@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.871e8f07.css",
-    "main.js": "/React-Portfolio/static/js/main.243dbf8a.js",
+    "main.js": "/React-Portfolio/static/js/main.cc620553.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/me.jpg": "/React-Portfolio/static/media/me.c1c3130bd24da2dddd3c.jpg",
     "static/media/mecard.jpg": "/React-Portfolio/static/media/mecard.11f70ac89e92a2e8beff.jpg",
-    "static/media/Daniel-Wratten-Resume.docx": "/React-Portfolio/static/media/Daniel-Wratten-Resume.5a63c349f7baac770dc8.docx",
+    "static/media/Daniel-Wratten-Resume.pdf": "/React-Portfolio/static/media/Daniel-Wratten-Resume.a7b5ef155891bdbcf698.pdf",
     "index.html": "/React-Portfolio/index.html",
     "main.871e8f07.css.map": "/React-Portfolio/static/css/main.871e8f07.css.map",
-    "main.243dbf8a.js.map": "/React-Portfolio/static/js/main.243dbf8a.js.map",
+    "main.cc620553.js.map": "/React-Portfolio/static/js/main.cc620553.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.871e8f07.css",
-    "static/js/main.243dbf8a.js"
+    "static/js/main.cc620553.js"
   ]
 }
